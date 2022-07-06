@@ -31,8 +31,8 @@
                     <div class="day">sab</div>
                 </div>
             </div>
-            <form action="#" class="search-bar">
-                <input type="text" name="query" class="search-bar__field"id="" placeholder="Insira aqui o nome da cidade" minlength="2" maxlength="40" pattern="[A-Za-z ]+">
+            <form action="#" class="search-bar" novalidate>
+                <input type="text" name="query" class="search-bar__field"id="" placeholder="Insira aqui o nome da cidade" minlength="2" maxlength="40" pattern="[A-Za-z ]+(,[Bb][Rr]$)?" required>
                 <button type="submit" class="search-bar__submit">lupa</button>
             </form>
         </div>
