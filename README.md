@@ -1,3 +1,7 @@
+# Live Preview
+
+Preview @ https://xcheesee.github.io/WeatherApp/
+
 # Desafio-Frontend
 
 ![alt tag](https://s3-us-west-1.amazonaws.com/1sti/1sti-transformacao.png)
